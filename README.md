@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-### Automtizar a edição inicial que costumo utilizar ao acessar o Excel.
+### Automatizar a edição inicial que costumo utilizar ao acessar o Excel.
 
 ## Tecnologias Usadas
 
